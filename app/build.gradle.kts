@@ -60,30 +60,8 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
 
 
-    implementation ("com.squareup.picasso:picasso:2.8")
-
-    implementation("com.android.volley:volley:1.2.1")
-
-//    implementation ("androidx.paging:paging-common:3.3.0")
-    implementation ("androidx.paging:paging-runtime-ktx:3.0.0-rc01")
 
 
-    // Retrofit
 
-    implementation ("com.squareup.retrofit2:converter-moshi:2.9.0")
-    implementation ("com.squareup.moshi:moshi-kotlin:1.11.0")
-    implementation ("com.squareup.moshi:moshi-kotlin-codegen:2.9.0")
-    implementation ("com.squareup.okhttp3:logging-interceptor:4.9.0")
-
-// Hilt
-    implementation ("com.google.dagger:hilt-android:2.30.1-alpha")
-    implementation ("androidx.hilt:hilt-compiler:1.0.0-alpha02")
-    implementation ("androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha02")
-    implementation ("com.google.dagger:hilt-android-compiler:2.30.1-alpha")
-// coil
-    implementation("io.coil-kt:coil:1.0.0")
-
-    implementation ("androidx.paging:paging-rxjava2:3.2.1")
-    implementation ("androidx.paging:paging-rxjava3:3.2.1")
 
 }
