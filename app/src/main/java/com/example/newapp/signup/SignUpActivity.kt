@@ -31,7 +31,6 @@ class SignUpActivity : AppCompatActivity() {
             viewModel.liveData.observe(this) {
                 println(it)
             }
-
         }
 
 

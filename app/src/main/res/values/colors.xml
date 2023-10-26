@@ -4,4 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#13b2ff</color>
     <color name="violet">#8b89ff</color>
+
+    <color name="linecolor">#DADBDB</color>
+    <color name="btnBackground">#FFFFFF</color>
+    <color name="btnBackground2">#FF9800</color>
+
 </resources>

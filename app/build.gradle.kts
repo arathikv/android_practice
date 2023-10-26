@@ -28,6 +28,9 @@ android {
             )
         }
     }
+    buildFeatures{
+        viewBinding =  true
+    }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
@@ -60,7 +63,8 @@ dependencies {
     implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
 
 
-
+//calculator
+    implementation("net.objecthunter:exp4j:0.4.8")
 
 
 
